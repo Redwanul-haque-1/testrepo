@@ -1,2 +1,2 @@
 # testrepo
-For learning purpose from coursera
+For learning purpose from coursera tools for data science
